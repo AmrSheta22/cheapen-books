@@ -1,0 +1,6 @@
+pdf2image
+numpy
+PIL
+cv2
+img2pdf
+shutil
